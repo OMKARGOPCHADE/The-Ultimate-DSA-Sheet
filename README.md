@@ -48,10 +48,11 @@ The problems in this sheet cover a wide range of DSA topics, including but not l
 2. **Navigate to the directory**
    ```bash
       cd The-Ultimate-DSA-Sheet
-3. **Explore solutions:**
-🔹**Solutions are organized topic-wise in folders.**
-🔹**Each solution contains code + explanation.**
-🔹**Try solving problems on your own before checking the solutions!**
+   
+3. **Explore solutions:** <br>
+🔹**Solutions are organized topic-wise in folders.** <br>
+🔹**Each solution contains code + explanation.** <br>
+🔹**Try solving problems on your own before checking the solutions!** <br>
 ---
 
 ### **2️⃣ Contributing**  
@@ -78,6 +79,6 @@ This project is **open-source** under the [MIT License](LICENSE).
 
 ---
 ## 🔗 Connect with Me
-**💼 LinkedIn: https://www.linkedin.com/in/omkar-gopchade-b061b4207/**
-**🐦 Twitter: @omkargopchade**
+**💼 LinkedIn: https://www.linkedin.com/in/omkar-gopchade-b061b4207/** <br>
+**🐦 Twitter: @omkargopchade** <br>
 **📧 Email: omkargopchhade@gmail.com**
