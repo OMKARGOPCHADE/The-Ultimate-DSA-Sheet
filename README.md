@@ -45,3 +45,39 @@ The problems in this sheet cover a wide range of DSA topics, including but not l
 1. **Clone this repository**:  
    ```bash
    git clone https://github.com/OMKARGOPCHADE/The-Ultimate-DSA-Sheet.git
+2. **Navigate to the directory**
+   ```bash
+      cd The-Ultimate-DSA-Sheet
+3. **Explore solutions:**
+🔹**Solutions are organized topic-wise in folders.**
+🔹**Each solution contains code + explanation.**
+🔹**Try solving problems on your own before checking the solutions!**
+---
+
+### **2️⃣ Contributing**  
+
+## 🤝 Contributing  
+Want to contribute? 🎯 You can:  
+- Add **optimized solutions** for existing problems.  
+- Improve **documentation** and **explanations**.  
+- Submit new **challenging problems** with solutions.  
+
+### Steps to Contribute:  
+1. **Fork** this repository.  
+2. Create a **new branch** for your changes.  
+3. **Commit** your code with proper documentation.  
+4. Submit a **pull request** for review.  
+
+Your contributions are welcome! 🚀  
+
+---
+## 📜 License  
+This project is **open-source** under the [MIT License](LICENSE).  
+
+📢 **Star this repo ⭐ if you found it useful!**  
+
+---
+## 🔗 Connect with Me
+**💼 LinkedIn: https://www.linkedin.com/in/omkar-gopchade-b061b4207/**
+**🐦 Twitter: @omkargopchade**
+**📧 Email: omkargopchhade@gmail.com**
